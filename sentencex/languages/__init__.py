@@ -27,6 +27,7 @@ from .ru import Russian
 from .sk import Slovak
 from .ta import Tamil
 from .te import Telugu
+from .fil import Filipino
 
 __all__ = [
     "Amharic",
